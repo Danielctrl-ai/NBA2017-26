@@ -4,3 +4,7 @@ __pycache__/
 venv/
 .env
 .vscode/
+# Local ChromeDriver binaries (webdriver-manager downloads the right one)
+chromedriver*
+# Excel lock files
+~$*
